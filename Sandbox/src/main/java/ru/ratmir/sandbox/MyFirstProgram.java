@@ -1,3 +1,5 @@
+package ru.ratmir.sandbox;
+
 /**
  * Created by Ratmir on 09.06.2016.
  */
